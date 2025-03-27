@@ -32,4 +32,14 @@ The solution you’ll create for Fourth Coffee requires the following resources 
 An Azure AI Search resource, which will manage indexing and querying.
 An Azure AI services resource, which provides AI services for skills that your search solution can use to enrich the data in the data source with AI-generated insights.
 
+Prepare-se para um projeto de desenvolvimento de IA
+Neste exercício, você usa o portal do Azure AI Foundry para criar um hub e um projeto, prontos para uma equipe de desenvolvedores criar uma solução de IA.
+
+Este exercício leva aproximadamente 30 minutos.
+
+Abra o portal do Azure AI Foundry
+Vamos começar entrando no portal do Azure AI Foundry.
+
+Em um navegador da Web, abra o portal do Azure AI Foundry em https://ai.azure.come faça login usando suas credenciais do Azure. Feche todas as dicas ou painéis de início rápido que forem abertos na primeira vez que você fizer login e, se necessário, use o logotipo do Azure AI Foundry no canto superior esquerdo para navegar até a página inicial, que se parece com a seguinte imagem:
+
 
