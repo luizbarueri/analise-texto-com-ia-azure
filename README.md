@@ -14,3 +14,22 @@ Em uma guia do navegador, navegue até Azure AI Foundry .
 Entre com sua conta.
 
 Na página inicial do portal do Azure AI Foundry, selecione Create a project . No Azure AI Foundry, os projetos são contêineres que ajudam a organizar seu trabalho.
+
+Explore an Azure AI Search index (UI)
+Let’s imagine you work for Fourth Coffee, a national coffee chain. You’re asked to help build a knowledge mining solution that makes it easy to search for insights about customer experiences. You decide to build an Azure AI Search index using data extracted from customer reviews.
+
+In this lab you’ll:
+
+Create Azure resources
+Extract data from a data source
+Enrich data with AI skills
+Use Azure’s indexer in the Azure portal
+Query your search index
+Review results saved to a Knowledge Store
+Azure resources needed
+The solution you’ll create for Fourth Coffee requires the following resources in your Azure subscription:
+
+An Azure AI Search resource, which will manage indexing and querying.
+An Azure AI services resource, which provides AI services for skills that your search solution can use to enrich the data in the data source with AI-generated insights.
+
+
